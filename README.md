@@ -18,6 +18,11 @@ After running code:
 
 ![image](https://github.com/user-attachments/assets/a1bd5490-dae6-46cb-840f-218944ab1730)
 
+After loading into PowerBI:
+
+![image](https://github.com/user-attachments/assets/3ca80312-6a19-468b-bb06-f265ec56d6e6)
+
+
 BUSINESS SOLUTIONS FOR THE CUSTOMER SEGMENTATION
 
 1. Lost Customer
